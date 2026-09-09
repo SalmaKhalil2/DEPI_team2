@@ -10,8 +10,6 @@ The platform follows an end-to-end assessment workflow:
 
 The current implementation represents a **Minimum Viable Product (MVP)** that validates the platform architecture and assessment workflow. It targets **local deployment** and provides a foundation for future enhancements rather than a production-ready deployment.
 
-This repository documents the platform architecture, implementation, and the technologies behind each stage of the assessment workflow.
-
 
 ## Project Overview
 
